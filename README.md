@@ -1,4 +1,5 @@
-* How to use it:
+* Bagaimana cara menggunakannya silahkan ketikan perintah di bawah ini
+* di Termux:
 
 ```
 $ pkg install git
@@ -6,12 +7,12 @@ $ git clone https://github.com/Edi-ID/youtube-dl.git
 $ cd youtube-dl
 ```
 
-* after that, type the install.sh file to install the package
+* setelah itu ketikkan file install.sh untuk menginstal paket tersebut
 ```
 $ sh install.sh
 ```
 
-NOTE:
-* if it's finished installing then open Youtube
-* search for the video that you want to download
-* open the video then click share Via Termux!
+CATATAN:
+* jika sudah selesai di install silahkan buka Youtube
+* cari video yang ingin Anda unduh
+* buka videonya lalu klik share Via Termux!
