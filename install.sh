@@ -9,7 +9,6 @@ termux-setup-storage
 pkg update && pkg upgrade
 pkg install git
 pkg install python
-pkg install python2
 pip install --upgrade youtube-dl
 pkg install ffmpeg
 pkg install wget
