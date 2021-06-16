@@ -5,13 +5,12 @@ echo "Install the package..."
 sleep 3
 clear
 echo
-termux-setup-storage
-pkg update && pkg upgrade
-pkg install git
-pkg install python
+apt install git
+apt install python
+pip install --upgrade pip
 pip install --upgrade youtube-dl
-pkg install ffmpeg
-pkg install wget
+apt install ffmpeg
+apt install wget
 mkdir ~/storage/shared/Downloader
 mkdir -p ~/.config/youtube-dl
 mkdir ~/bin
