@@ -2,7 +2,7 @@
 * di Termux:
 
 ```
-$ pkg install git
+$ apt install git
 $ git clone https://github.com/Edi-ID/youtube-dl.git
 $ cd youtube-dl
 ```
